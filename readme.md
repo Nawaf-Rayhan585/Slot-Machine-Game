@@ -1,5 +1,5 @@
 # 🎰 Python Slot Machine Game
- 
+  
 A simple **command-line slot machine game** built with Python! This project is beginner-friendly and demonstrates basic concepts like functions, loops, user input, randomness, and game logic.
 
 ---
