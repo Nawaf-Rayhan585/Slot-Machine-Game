@@ -4,7 +4,7 @@ A simple **command-line slot machine game** built with Python! This project is b
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 - Simulates a 3x3 slot machine 🎰  
 - Customizable number of lines to bet on (1–3)
